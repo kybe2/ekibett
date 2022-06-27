@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ekibett
+- 👋 Hi, I’m @kybe2
 - 👀 I’m interested in solving problems
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Javascript, Cloud, Solidity
 - 💞️ I’m looking to collaborate on creating systems
 - 📫 How to reach me kibenock@gmail.com
 
